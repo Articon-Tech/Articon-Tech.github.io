@@ -17,17 +17,17 @@
 
 .badge-articon {
   color: #212529;
-  background-color: #f15928;
+  background-color: #f35816;
 }
 
 .badge-articon[href]:hover,
 .badge-articon[href]:focus {
   color: #212529;
-  background-color: #d73f0e;
+  background-color: #f35816;
 }
 
 .bg-articon {
-  background-color: #f15928 !important;
+  background-color: #f35816 !important;
 }
 
 a.bg-articon:hover,
@@ -38,13 +38,13 @@ button.bg-articon:focus {
 }
 
 .border-articon {
-  border-color: #f15928 !important;
+  border-color: #f35816 !important;
 }
 
 .btn-articon {
   color: #212529;
-  background-color: #f15928;
-  border-color: #f15928;
+  background-color: #f35816;
+  border-color: #f35816;
 }
 
 .btn-articon:hover {
@@ -61,8 +61,8 @@ button.bg-articon:focus {
 .btn-articon.disabled,
 .btn-articon:disabled {
   color: #212529;
-  background-color: #f15928;
-  border-color: #f15928;
+  background-color: #f35816;
+  border-color: #f35816;
 }
 
 .btn-articon:not(:disabled):not(.disabled):active,
@@ -80,15 +80,15 @@ button.bg-articon:focus {
 }
 
 .btn-outline-articon {
-  color: #f15928;
+  color: #f35816;
   background-color: transparent;
-  border-color: #f15928;
+  border-color: #f35816;
 }
 
 .btn-outline-articon:hover {
   color: #212529;
-  background-color: #f15928;
-  border-color: #f15928;
+  background-color: #f35816;
+  border-color: #f35816;
 }
 
 .btn-outline-articon:focus,
@@ -98,7 +98,7 @@ button.bg-articon:focus {
 
 .btn-outline-articon.disabled,
 .btn-outline-articon:disabled {
-  color: #f15928;
+  color: #f35816;
   background-color: transparent;
 }
 
@@ -106,8 +106,8 @@ button.bg-articon:focus {
 .btn-outline-articon:not(:disabled):not(.disabled).active,
 .show > .btn-outline-articon.dropdown-toggle {
   color: #212529;
-  background-color: #f15928;
-  border-color: #f15928;
+  background-color: #f35816;
+  border-color: #f35816;
 }
 
 .btn-outline-articon:not(:disabled):not(.disabled):active:focus,
@@ -149,7 +149,7 @@ button.bg-articon:focus {
 }
 
 .text-articon {
-  color: #f15928 !important;
+  color: #f35816 !important;
 }
 
 a.text-articon:hover,
